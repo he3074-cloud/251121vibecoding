@@ -28,7 +28,7 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-st.title("🎀 MBTI 진로 상담 웹앱 — 핑크 에디션")
+st.title("🎀 MBTI 진로 상담 웹앱")
 st.write("당신의 MBTI를 선택하면, 사랑스러운 핑크 분위기 속에서 ✨맞춤 진로 추천✨을 보여드릴게요! 💗🌸")
 
 # MBTI list
